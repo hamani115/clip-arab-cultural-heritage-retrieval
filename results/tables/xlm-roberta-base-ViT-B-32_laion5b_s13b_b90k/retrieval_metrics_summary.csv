@@ -1,0 +1,16 @@
+prompt_id,prompt,expected_category,language,prompt_style,total_relevant_in_dataset,precision_at_1,precision_at_5,precision_at_10,recall_at_5,recall_at_10,mrr
+p01,an Arabic manuscript,manuscript_calligraphy,en,generic,40,1.0,1.0,1.0,0.125,0.25,1.0
+p02,a museum artifact with Arabic calligraphy,manuscript_calligraphy,en,contextual,40,0.0,0.2,0.2,0.025,0.05,0.2
+p03,an Islamic ceramic bowl,pottery_ceramics,en,generic,80,1.0,1.0,1.0,0.0625,0.125,1.0
+p04,ancient pottery from a museum,pottery_ceramics,en,contextual,80,1.0,1.0,1.0,0.0625,0.125,1.0
+p05,a statue from an Arab museum,sculptures_statues,en,generic,40,1.0,1.0,1.0,0.125,0.25,1.0
+p06,a sculpture displayed in a museum,sculptures_statues,en,contextual,40,1.0,1.0,1.0,0.125,0.25,1.0
+p07,a museum object from Bahrain,bahrain_museum_objects,en,local,40,0.0,0.0,0.0,0.0,0.0,0.0
+p08,a Dilmun artifact in a museum,bahrain_museum_objects,en,local,40,0.0,0.0,0.0,0.0,0.0,0.0
+p09,the exterior of a national museum,architecture_sites,en,generic,12,1.0,0.2,0.3,0.0833333333333333,0.25,1.0
+p10,the interior of a museum gallery,museum_interior,en,generic,30,1.0,1.0,0.9,0.1666666666666666,0.3,1.0
+p11,مخطوطة عربية,manuscript_calligraphy,ar,arabic,40,1.0,1.0,1.0,0.125,0.25,1.0
+p12,فخار إسلامي,pottery_ceramics,ar,arabic,80,1.0,1.0,1.0,0.0625,0.125,1.0
+p13,تمثال في متحف,sculptures_statues,ar,arabic,40,1.0,1.0,1.0,0.125,0.25,1.0
+p14,متحف البحرين الوطني,bahrain_museum_objects,ar,arabic,40,1.0,0.8,0.6,0.1,0.15,1.0
+p15,داخل المتحف,museum_interior,ar,arabic,30,0.0,0.8,0.6,0.1333333333333333,0.2,0.5

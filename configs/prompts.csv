@@ -1,0 +1,16 @@
+prompt_id,prompt,expected_category,language,prompt_style
+p01,an Arabic manuscript,manuscript_calligraphy,en,generic
+p02,a museum artifact with Arabic calligraphy,manuscript_calligraphy,en,contextual
+p03,an Islamic ceramic bowl,pottery_ceramics,en,generic
+p04,ancient pottery from a museum,pottery_ceramics,en,contextual
+p05,a statue from an Arab museum,sculptures_statues,en,generic
+p06,a sculpture displayed in a museum,sculptures_statues,en,contextual
+p07,a museum object from Bahrain,bahrain_museum_objects,en,local
+p08,a Dilmun artifact in a museum,bahrain_museum_objects,en,local
+p09,the exterior of a national museum,architecture_sites,en,generic
+p10,the interior of a museum gallery,museum_interior,en,generic
+p11,مخطوطة عربية,manuscript_calligraphy,ar,arabic
+p12,فخار إسلامي,pottery_ceramics,ar,arabic
+p13,تمثال في متحف,sculptures_statues,ar,arabic
+p14,متحف البحرين الوطني,bahrain_museum_objects,ar,arabic
+p15,داخل المتحف,museum_interior,ar,arabic

@@ -1,0 +1,16 @@
+beautifulsoup4
+ftfy
+matplotlib
+numpy
+open_clip_torch
+pandas
+pillow
+python-slugify
+PyYAML
+requests
+scikit-learn
+sentencepiece
+timm
+tqdm
+transformers
+tabulate

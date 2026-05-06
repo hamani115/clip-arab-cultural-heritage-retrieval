@@ -1,0 +1,19 @@
+# Python
+venv*/
+.env
+__pycache__/
+*.pyc
+
+# Local downloaded images
+# data/images/wikimedia_commons/
+
+# Generated embeddings
+# results/embeddings/
+# *.npy
+
+# Temporary/generated files
+*.zip
+*.bak
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+expected_category,architecture_sites,bahrain_museum_objects,manuscript_calligraphy,pottery_ceramics,sculptures_statues
+architecture_sites,1,0,0,0,0
+bahrain_museum_objects,1,0,0,2,0
+manuscript_calligraphy,0,1,1,1,0
+museum_interior,0,1,1,0,0
+pottery_ceramics,1,1,0,1,0
+sculptures_statues,1,1,0,0,1
